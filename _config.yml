@@ -12,7 +12,7 @@ github_repo: "https://github.com/pockywei/pockywei.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/SAM.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: chenhaoweiSam
 
 # Gitalk
 gitalk:
